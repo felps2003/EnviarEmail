@@ -47,5 +47,6 @@ if valor == '#Na08081998':
                     """
                     enviarEmail(email,text)
             st.success("Parabéns todos foram enviados")
+            st.balloons()
 
 
